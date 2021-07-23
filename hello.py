@@ -1,5 +1,6 @@
 animals = [
-    'rabbit'
+    'rabbit',
+    'dog'
 ]
 
 for     _ in range(1, 10+1):
