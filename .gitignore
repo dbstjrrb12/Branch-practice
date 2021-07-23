@@ -1,0 +1,6 @@
+# custom
+
+.hidden/**
+keyfile.pem
+*.db
+.DS_Store
